@@ -1,6 +1,4 @@
-
 # <div style="display: flex;"><img src="https://github.com/user-attachments/assets/27508675-a803-4e56-ba23-45a784429362" alt="logo">
-
 
 
 # Online Course Platform (Mentoria)🏫
